@@ -9,10 +9,10 @@
 | 3    | [for문](https://www.acmicpc.net/step/3)                      | **`완료`** | 11      | 11             |
 | 4    | [while문](https://www.acmicpc.net/step/2)                    | **`완료`** | 3       | 3              |
 | 5    | [1차원 배열](https://www.acmicpc.net/step/6)                 | **`완료`** | 7       | 7              |
-| 6    | [함수](https://www.acmicpc.net/step/5)                       | `도전 중`  | 3       | 1              |
+| 6    | [함수](https://www.acmicpc.net/step/5)                       | `도전 중`  | 3       | 2              |
 | 7    | [문자열](https://www.acmicpc.net/step/7)                     | `도전 중`  | 10      | 7              |
 | 8    | [기본 수학 1](https://www.acmicpc.net/step/8)                | `도전 중`  | 9       | 1              |
-| 9    | [기본 수학 2](https://www.acmicpc.net/step/10)               | `도전 중`  | 11      | 1              |
+| 9    | [기본 수학 2](https://www.acmicpc.net/step/10)               | `도전 중`  | 11      | 2              |
 | 10   | [재귀](https://www.acmicpc.net/step/19)                      |            | 4       | 0              |
 | 11   | [브루트 포스](https://www.acmicpc.net/step/22)               |            | 5       | 0              |
 | 12   | [정렬](https://www.acmicpc.net/step/9)                       | `도전 중`  | 10      | 8              |

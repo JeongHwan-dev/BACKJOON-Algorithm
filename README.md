@@ -13,7 +13,7 @@
 | 7    | [문자열](https://www.acmicpc.net/step/7)                     | `도전 중`  | 10      | 7              |
 | 8    | [기본 수학 1](https://www.acmicpc.net/step/8)                | `도전 중`  | 9       | 1              |
 | 9    | [기본 수학 2](https://www.acmicpc.net/step/10)               | `도전 중`  | 11      | 2              |
-| 10   | [재귀](https://www.acmicpc.net/step/19)                      |            | 4       | 0              |
+| 10   | [재귀](https://www.acmicpc.net/step/19)                      | `도전 중`  | 4       | 1              |
 | 11   | [브루트 포스](https://www.acmicpc.net/step/22)               |            | 5       | 0              |
 | 12   | [정렬](https://www.acmicpc.net/step/9)                       | `도전 중`  | 10      | 8              |
 | 13   | [집합과 맵](https://www.acmicpc.net/step/49)                 |            | 0       | 0              |
